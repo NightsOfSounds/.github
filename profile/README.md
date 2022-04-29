@@ -2,7 +2,7 @@
 
 We are happy, you found us, so let us introduce ourselfs really quick.
 
-![banner](../banner.webp)
+![banner](https://github.com/NightsOfSounds/.github/raw/main/banner.webp)
 
 ## Who are we?
 
